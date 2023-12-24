@@ -1,4 +1,4 @@
-# Signal Android 
+# ME Android 
 
 Signal is a simple, powerful, and secure messenger.
 
